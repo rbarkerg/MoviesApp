@@ -1,15 +1,15 @@
 # Movies App
-This is an app created in React Native and Type Scrip, using navigation, images from urls, call APIs and env file.
+This is an app created in React Native and TypeScript, using navigation, images from URLs, calling APIs, and environment file.
 
 ## How to run 
 - Clone/download the repo.
-- Install the dependencies ```npm install```.
-- Rename ```.env.template``` file to ```.env```.
-- Add your ```THE_MOVIE_DB_KEY``` into ```.env```.
+- Install the dependencies with `npm install`.
+- Rename `.env.template` file to `.env`.
+- Add your `THE_MOVIE_DB_KEY` into `.env`.
    - To get your api key go to [TMDB](https://www.themoviedb.org/).
    - Sign in.
    - Generate your api key in [TMDB settings](https://www.themoviedb.org/settings/api).
-- Run the project ```npm start```.
+- Run the project with `npm start`.
 
 ## Screen shots 
 
