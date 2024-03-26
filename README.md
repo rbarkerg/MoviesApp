@@ -13,8 +13,10 @@ This is an app created in React Native and Type Scrip, using navigation, images 
 
 ## Screen shots 
 
+<div>
 <img src="./screenShots/01-Loading.png" style=" width:100px ; height:200px" />
 <img src="./screenShots/02-Main.png" style=" width:100px ; height:200px" />
 <img src="./screenShots/03-Main.png" style=" width:100px ; height:200px" />
 <img src="./screenShots/04-Detail.png" style=" width:100px ; height:200px" />
 <img src="./screenShots/05-Detail.png" style=" width:100px ; height:200px" />
+</div>
